@@ -11,7 +11,7 @@ div,nav { border-radius: 10px;
 }
 .logo {
     height: 100px;
-    width: 200px;
+    width: 20%;
     background-color: #5a5ffa;
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@ div,nav { border-radius: 10px;
 }
 .banner {
     height: 100px;
-    width: 450px;
+    width: 45%;
     background-color: #5a5ffa;
     display: flex;
     justify-content: center;
