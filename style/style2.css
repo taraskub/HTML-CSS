@@ -16,6 +16,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 
 
@@ -27,6 +28,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 
@@ -37,6 +39,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 
@@ -62,6 +65,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 .highlighted_Partners {
@@ -70,6 +74,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 .highlighted_Categorized_Deals {
@@ -78,6 +83,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 .center_of_main {
@@ -92,6 +98,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 .pet_Insurance {
@@ -100,6 +107,7 @@ div,nav { border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-top: 10px;
 }
 .aside_right {
