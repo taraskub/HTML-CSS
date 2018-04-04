@@ -1,0 +1,150 @@
+body {
+    background: linear-gradient(#749c82, black);
+    font-family: Candara, Calibri;
+    color: white;
+    font-size: 20px;
+}
+div,nav { border-radius: 10px;
+}
+.container{
+    margin: 0px 10px;
+}
+.logo {
+    height: 100px;
+    width: 200px;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+
+}
+.banner {
+    height: 100px;
+    width: 450px;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.navigation {
+    height: 80px;
+    background-color: #5a5ffa;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
+.main-content {
+    display: flex;
+    height: 800px;
+
+
+}
+.aside_left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.deal_of_the_Week {
+    height: 20%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.highlighted_Partners {
+    height: 30%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.highlighted_Categorized_Deals {
+    height: 50%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.center_of_main {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin-left:10px;
+}
+.membership_Sign_up {
+    height: 40%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.pet_Insurance {
+    height: 60%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.aside_right {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin-left:10px;
+
+}
+.description_of_Site {
+    height: 35%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+.blog_Posts {
+    height: 35%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+.forum_Posts {
+    height: 30%;
+    background-color: #5a5ffa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer {
+    height: 120px;
+    background-color: #5a5ffa;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
